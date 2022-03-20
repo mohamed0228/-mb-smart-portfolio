@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Sniper Sneakers",
+        "image": "/sniper.png",
+        "github": "https://github.com/kpehl/react-retreat",
+        "deploy": "https://react-retreat.herokuapp.com/",
+        "topics": " node, jawsdb, mysql, sequelize,dotenv, handelbars,express-session,model-view-controller"
+    },
+    {
+        "id": 2,
+        "name": "Soccer Central Fan",
+        "image": "/soccer.png",
+        "github": "https://github.com/cheesecakeassassin/group5-football-fanpage",
+        "deploy": "https://cheesecakeassassin.github.io/group5-football-fanpage/",
+        "topics": "node, server-side-api, javascript,jquery,local-storage"
+    },
+    {
+        "id": 3,
+        "name": "smart portfolio",
+        "image": "smart.png",
+        "github": "https://github.com/mohamed0228/smart-portfolio",
+        "deploy": "https://mohamed0228.github.io/smart-portfolio/",
+        "topics": "html, css"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "/weather.jpeg",
+        "github": "https://github.com/mohamed0228/weather-forecast",
+        "deploy": "https://mohamed0228.github.io/weather-forecast/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Budget Tracker",
+        "image": "budget.png",
+        "github": "https://github.com/mohamed0228/MB-Budget-Tracker",
+        "deploy": "https://enigmatic-plains-99724.herokuapp.com/",
+        "topics": "node, express, javascript, mongoDB, mongoose, nodemon,heroku"
+    },
+    {
+        "id": 6,
+        "name": "Work Day Scheduler",
+        "image": "/work.png",
+        "github": "hhttps://github.com/mohamed0228/My-Work-Day-Scheduler",
+        "deploy": "https://mohamed0228.github.io/My-Work-Day-Scheduler/",
+        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+    }
+]
