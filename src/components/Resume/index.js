@@ -11,8 +11,8 @@ function Resume() {
           <h2 className="top-title">Mohammed Boussaada</h2>
           <ul>
             <li>
-              veterinarian , full-stack web
-              soccer player.
+              veterinarian , full-stack web developer
+              
             </li>
           </ul>
 

@@ -1,12 +1,12 @@
 import React from "react";
-
+// import imageOfMe from "../../images/me.jpeg"
 function About() {
     return (
         <section className="container">
-            <h2 class="nav-title-font">Mohammed Boussaada </h2>
+            <h2 className="nav-title-font">Mohammed Boussaada </h2>
             <hr />
             <div>
-                <img class="mb-5" id="avatar" src="/me.jpeg" alt="Mohammed Boussaada" />
+                <img className="mb-5" id="avatar" src={process.env.PUBLIC_URL + '/images/me.jpeg'} alt="Mohammed Boussaada" />
                 <p>
                     Veterinarian and Web developer with a proven ability to adapt in both self-starting and environments while staying focused on achieving high quality results under strict deadlines.
                 </p>
