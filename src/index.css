@@ -166,7 +166,7 @@ li {
 .nav-title-font {
   font-family: 'Days One';
   font-size: 1.9em;
-  color: #ffffff;
+  color: #3881c1;
   position: relative;
   top: 30px;
   padding-bottom: 20px;
@@ -228,6 +228,9 @@ textarea {
 .nav {
   justify-content: flex-end;
   background-color: #000000;
+}
+.head {
+  background-color: black;
 }
 
 /* .mx-1 {

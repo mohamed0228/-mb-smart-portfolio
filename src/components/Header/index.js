@@ -26,7 +26,9 @@ function Header() {
   };
 
   return (
-    <div>
+    
+      <div>
+        <div className='head'>
       <nav className="nav-link ">
         <div className="text-light">
           <a
@@ -44,6 +46,7 @@ function Header() {
         currentPage={currentPage}
         handlePageChange={handlePageChange}
       />
+      </div>
       {/* Call the renderPage function passing in the currentPage */}
       <main>
         <div>{renderPage(currentPage)}</div>
