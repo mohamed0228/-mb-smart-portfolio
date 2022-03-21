@@ -82,6 +82,7 @@ h6 {
 
 p {
   margin-top: 0;
+  font-size: x-large;
 }
 
 a {
@@ -166,7 +167,7 @@ li {
 .nav-title-font {
   font-family: 'Days One';
   font-size: 1.9em;
-  color: #3881c1;
+  color: #042f55;
   position: relative;
   top: 30px;
   padding-bottom: 20px;
@@ -213,24 +214,13 @@ textarea {
   margin-right: auto;
 }
 
-/* .flex-row {
-  display: flex;
-  flex-wrap: wrap;
-} */
 
-/* .space-between {
-  justify-content: space-between;
-} */
-
-/* .flex-end {
-  justify-content: flex-end;
-} */
 .nav {
   justify-content: flex-end;
-  background-color: #000000;
+  background-color: #c5cf33;
 }
 .head {
-  background-color: black;
+  background-color: #c5cf33;
 }
 
 
@@ -308,6 +298,7 @@ textarea {
   display: flex; 
   align-items: center; 
   justify-content: center; 
+  background-color: #c5cf33;
 } 
 
 .icon {
@@ -372,4 +363,7 @@ a {
 
 .navActive {
   color: var(--secondary);
+}
+.ray {
+  background-color: rgb(220, 221, 172);
 }

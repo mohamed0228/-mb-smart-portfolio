@@ -41,6 +41,7 @@ function Resume() {
             <li>
             HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
             Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
+            
             </li>
           </ul>
         </div>
