@@ -17,7 +17,7 @@ function Resume() {
           </ul>
 
           <p class="mt-5">
-            <a href="">
+            <a href="https://www.linkedin.com/in/mohamed0228/">
               <img
                 src="https://img.icons8.com/fluent/48/000000/linkedin.png"
                 alt="inkedIn"
@@ -26,7 +26,7 @@ function Resume() {
           </p>
 
           <a
-            href=""
+            href="www.linkedin.com/in/mohamed0228"
             class="link"
           >
             Download Resume
