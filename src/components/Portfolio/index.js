@@ -23,8 +23,8 @@ const portfolio = [
         "id": 3,
         "name": "Soccer Central Fan",
         "image": "/images/soccer.png",
-        "github": "https://github.com/cheesecakeassassin/group5-football-fanpage",
-        "deploy": "https://cheesecakeassassin.github.io/group5-football-fanpage/",
+        "github": "https://github.com/cheesecakeassassin/football-fanpage",
+        "deploy": "https://cheesecakeassassin.github.io/football-fanpage/",
         "topics": "node, server-side-api, javascript,jquery,local-storage"
     },
     {
