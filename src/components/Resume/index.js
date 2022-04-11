@@ -26,7 +26,7 @@ function Resume() {
           </p>
 
           <a
-            href="https://www.linkedin.com/in/mohamed0228/"
+            href="https://docs.google.com/document/d/11yCKUxjBVXJfs6DeM5knT9t4u8rzs4MxCc7L8-X6utI/edit?usp=sharing"
             class="link"
           >
             Download Resume
