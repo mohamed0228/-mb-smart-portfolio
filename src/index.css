@@ -367,3 +367,6 @@ a {
 .ray {
   background-color: rgb(220, 221, 172);
 }
+.nav-title-font {
+  position: initial;
+}
