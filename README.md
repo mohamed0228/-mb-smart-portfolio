@@ -32,11 +32,5 @@ https://mohamed0228.github.io/-mb-smart-portfolio/
 ## GitHub repository
 https://github.com/mohamed0228/-mb-smart-portfolio
 
-
-  ## Screenshots of Application
-<img src="public/images/prev1.png">screenshots</img>
-<img src="public/images/prev3.png">screenshots</img>
-<img src="public/images/prev2.png">screenshots</img>
-
 ## Contributions
 Made with ❤️ by [mohammed-boussaada]
