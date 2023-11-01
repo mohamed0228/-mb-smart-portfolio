@@ -8,9 +8,7 @@ main {
   padding: 50px 30px;
 }
 :root {
-  min-height: 100vh;
-  background-color:blue;
-  --primary: #8c54ff;s
+  --primary: #8c54ff;
   --secondary: #F3A847;
   --tertiary: #0400ff;
   --light: #c5aaaa;
@@ -21,8 +19,13 @@ main {
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
-
 }
+
+body {
+  min-height: 100vh;
+  background-color: var(--primary); /* Use the defined variable */
+}
+
 
 * {
   box-sizing: border-box;
