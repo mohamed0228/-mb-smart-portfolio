@@ -8,7 +8,7 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
+  --primary: #5c1bde;
   --secondary: #F3A847;
   --tertiary: #0400ff;
   --light: #c5aaaa;
@@ -308,6 +308,8 @@ textarea {
 
 .icon {
   padding: 10px;
+  width:140px;
+  height:140px;
 }
 
 
