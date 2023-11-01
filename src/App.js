@@ -8,9 +8,9 @@ import Footer from "./components/Footer";
 function App() {
 
 return(
-  <div className="ray">
-  <Header></Header>
-  <Footer></Footer>
+  <div className="ray" style={{backgroundColor:'red'}}>
+  <Header/>
+  <Footer/>
   </div>
 )
 }

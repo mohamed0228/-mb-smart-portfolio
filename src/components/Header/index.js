@@ -27,10 +27,10 @@ function Header() {
 
   return (
     
-      <div>
+      <div style={{backgroundColor:"blue"}}>
         <div className='head'>
       <nav className="nav-link ">
-        <div className="text-light">
+        <div className="text-light" style={{paddinTop:"10px"}}>
           <a
             className="navbar-item"
             rel="noreferrer"

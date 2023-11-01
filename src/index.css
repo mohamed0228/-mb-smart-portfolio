@@ -8,9 +8,11 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
+  min-height: 100vh;
+  background-color:blue;
+  --primary: #8c54ff;s
   --secondary: #F3A847;
-  --tertiary: #B12704;
+  --tertiary: #0400ff;
   --light: #c5aaaa;
   --cultured: #A3A3A3;
   --dark: #000000;
@@ -92,7 +94,7 @@ a {
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 header {
@@ -217,10 +219,10 @@ textarea {
 
 .nav {
   justify-content: flex-end;
-  background-color: #c5cf33;
+  background-color: #3b83ef;
 }
 .head {
-  background-color: #c5cf33;
+  background-color: #3b83ef;
 }
 
 
@@ -298,7 +300,7 @@ textarea {
   display: flex; 
   align-items: center; 
   justify-content: center; 
-  background-color: #c5cf33;
+  background-color: #3b83ef;
 } 
 
 .icon {
@@ -353,7 +355,7 @@ button {
 
 a {
 	border-radius: 5px;
-	color: var(--primary);
+	color: black;
 	font-weight: 600;
 	padding: 2px 4px;
 	margin-left: -2px;
@@ -362,7 +364,7 @@ a {
 }
 
 .navActive {
-  color: var(--secondary);
+  color: white;
 }
 .ray {
   background-color: rgb(220, 221, 172);
